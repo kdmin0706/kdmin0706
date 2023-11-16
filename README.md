@@ -11,7 +11,7 @@
 
 <!--
 <br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgd04)](https://solved.ac/dgd04/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gxxk76)](https://solved.ac/gxxk76/)
 </div>
 -->
 
