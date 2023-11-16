@@ -3,11 +3,10 @@
 <br>
   
 
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact)](https://github.com/kdmin0706/github-readme-stats)
+
 <br><br>
 <!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast) 가 함께 제공됩니다 dracula. -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmin0706&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmin0706&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact)](https://github.com/kdmin0706/github-readme-stats)
 <br><br>
 
 <!--
