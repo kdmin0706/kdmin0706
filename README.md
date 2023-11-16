@@ -3,12 +3,6 @@
 <br>
   
 
-<!--
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact">
-<br><br>
--->
-
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact)](https://github.com/kdmin0706/github-readme-stats)
 <br><br>
