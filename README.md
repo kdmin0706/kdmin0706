@@ -5,15 +5,11 @@
 
 
 <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gxxk76)](https://solved.ac/gxxk76/)
+<br><br>
 <!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast) 가 함께 제공됩니다 dracula. -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmin0706&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact)](https://github.com/kdmin0706/github-readme-stats)
 <br><br>
-
-<!--
-<br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gxxk76)](https://solved.ac/gxxk76/)
-</div>
--->
 
 <!--
 **kdmin0706/kdmin0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
