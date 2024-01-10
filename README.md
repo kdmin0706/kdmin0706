@@ -1,8 +1,18 @@
 <div align="center">
-<h1>Hello, I'm <a href="##">KyungDam Min</a> 👋</h1>
-<br>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&size=40&duration=3000&pause=1000&color=CFCFCFC3&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+I'm+Kyungdam!%F0%9F%91%8B)]()
+
+<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdmin0706%2Fhit-counter&count_bg=%23B885E1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+
+<!--
+<div align="center">
+<h1>Hello, I'm <a href="##">KyungDam Min</a> 👋</h1>
+<br> -->
+
 
 <!-- 
 <br><br>
