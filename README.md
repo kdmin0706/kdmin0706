@@ -8,7 +8,11 @@
 
 ## Contact
 <a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Tistory-00AAFF?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
-<a href="mailto:gxxk76@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sol031988@gmail.com"/></a>
+<a href="mailto:gxxk76@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<!--
+<a href="mailto:rudeka0706@naver.com.com"><img src="https://img.shields.io/badge/Naver-20C997?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+-->
 
 
 ## Informations
