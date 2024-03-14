@@ -7,8 +7,8 @@
 </div>
 
 ## Contact
-<a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Blog-00AAFF?style=flat-square&logo=Micro.blog&logoColor=white&link=https://silversound-coding.tistory.com/"/></a> 
-<a href="mailto:gxxk76@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sol031988@gmail.com"/></a>
+<a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Tistory-00AAFF?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
+<a href="mailto:gxxk76@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sol031988@gmail.com"/></a>
 
 
 ## Informations
