@@ -28,10 +28,13 @@ I want to have a strong influence in the software world as a developer.
 
 
 ## Informations
-<!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula) 가 함께 제공됩니다. -->
+<!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, black-ice) 가 함께 제공됩니다. -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmin0706&rank_icon=github&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact&theme=dracula)](https://github.com/kdmin0706/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdmin0706&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdmin0706%2Fhit-counter&count_bg=%23B885E1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!--
+[![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=kdmin0706&hide_border=true&theme=black-ice)](https://git.io/streak-stats)
+-->
