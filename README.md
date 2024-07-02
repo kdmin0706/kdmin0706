@@ -18,6 +18,7 @@ I develop better products through endless efforts to reduce software task latenc
 I want to have a strong influence in the software world as a developer.
 
 ## Contact
+<a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Tistory-00AAFF?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
 <a href="mailto:rudeka0706@naver.com"><img src="https://img.shields.io/badge/Naver-gr?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="mailto:gxxk76@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
