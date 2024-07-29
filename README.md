@@ -7,7 +7,7 @@
 </div>
 
   
-## Introduce
+## 📰 Introduce
 Growth oriented Back-End  Engineer 🔥
 
 I believe in learning together and actively fostering the growth of myself and my colleagues.
@@ -19,12 +19,12 @@ I develop better products through endless efforts to reduce software task latenc
 I want to have a strong influence in the software world as a developer.
 
 
-## Post
+## 📩 Post
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kdmin0706)](https://velog.io/@kdmin0706)
 
 
-## Contact
+## 📞 Contact
 <a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Tistory-00AAFF?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
 <a href="mailto:rudeka0706@naver.com"><img src="https://img.shields.io/badge/Naver-gr?style=for-the-badge&logo=Naver&logoColor=white"/></a>
@@ -35,7 +35,7 @@ I want to have a strong influence in the software world as a developer.
 -->
 
 
-## Informations
+## 📝 Informations
 <!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, black-ice) 가 함께 제공됩니다. -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmin0706&rank_icon=github&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
