@@ -6,6 +6,7 @@
 
 </div>
 
+  
 ## Introduce
 Growth oriented Back-End  Engineer 🔥
 
@@ -16,6 +17,12 @@ I have a strong interest in cloud-native technologies and consider technical tra
 I develop better products through endless efforts to reduce software task latency.
 
 I want to have a strong influence in the software world as a developer.
+
+
+## Post
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kdmin0706)](https://velog.io/@kdmin0706)
+
 
 ## Contact
 <a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
