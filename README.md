@@ -17,19 +17,19 @@ I develop better products through endless efforts to reduce software task latenc
 
 I want to have a strong influence in the software world as a developer.
 
-</br>
+<a></a>
 
 ## ⚙ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,spring,mysql&perline=3"/>
 
-</br>
+<a></a>
 
 ## 📩 Post
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kdmin0706)](https://velog.io/@kdmin0706)
 
 
-</br>
+<a></a>
 
 ## 📞 Contact
 <a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
@@ -40,7 +40,7 @@ I want to have a strong influence in the software world as a developer.
 <!--
 <a href="https://github.com/kdmin0706/kdmin0706/files/14629937/-240318.pdf"><img src="https://img.shields.io/badge/PortFolio-green?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 -->
-</br>
+<a></a>
 
 ## 📝 Informations
 <!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, black-ice) 가 함께 제공됩니다. -->
