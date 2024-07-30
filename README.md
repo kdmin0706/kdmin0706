@@ -7,7 +7,7 @@
 </div>
 
 ## 📰 Introduce
-Growth oriented Back-End  Engineer 🔥
+Growth oriented Back-End Engineer 🔥
 
 I believe in learning together and actively fostering the growth of myself and my colleagues.
 
