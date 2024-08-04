@@ -20,7 +20,7 @@ I want to have a strong influence in the software world as a developer.
 <a></a>
 
 ## ⚙ Tech Stack
-<img src="https://skillicons.dev/icons?i=java,spring,mysql&perline=3"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis"/>
 
 <a></a>
 
