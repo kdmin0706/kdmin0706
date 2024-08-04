@@ -32,13 +32,13 @@ I want to have a strong influence in the software world as a developer.
 <a></a>
 
 ## 📞 Contact
-<a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://www.notion.so/adbfa4cde6004504828188e3ad015af0?pvs=4"><img src="https://img.shields.io/badge/PortFolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Tistory-00AAFF?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
-<a href="mailto:rudeka0706@naver.com"><img src="https://img.shields.io/badge/Naver-gr?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+<a href="mailto:rudeka0706@naver.com"><img src="https://img.shields.io/badge/Naver Mail-gr?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="mailto:gxxk76@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <!--
-<a href="https://github.com/kdmin0706/kdmin0706/files/14629937/-240318.pdf"><img src="https://img.shields.io/badge/PortFolio-green?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 -->
 <a></a>
 
