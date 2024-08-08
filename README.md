@@ -25,19 +25,15 @@ I want to have a strong influence in the software world as a developer.
 
 <a></a>
 
+<p>
+
 ## ⚙ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis"/>
-
-<a></a>
-
-## 📩 Post
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kdmin0706)](https://velog.io/@kdmin0706)
+</p>
 
 
-<a></a>
-
-## 📞 Contact
+<p>
+<h2>📞 Contact</h2>
 <a href="https://www.notion.so/adbfa4cde6004504828188e3ad015af0?pvs=4"><img src="https://img.shields.io/badge/PortFolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://miiro-under.tistory.com"><img src="https://img.shields.io/badge/Tistory-00AAFF?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
 <a href="mailto:rudeka0706@naver.com"><img src="https://img.shields.io/badge/Naver Mail-gr?style=for-the-badge&logo=Naver&logoColor=white"/></a>
@@ -46,7 +42,15 @@ I want to have a strong influence in the software world as a developer.
 <!--
 <a href="https://velog.io/@kdmin0706"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 -->
-<a></a>
+</p>
+
+<p>
+
+## 📩 Post
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kdmin0706)](https://velog.io/@kdmin0706)  
+</p>
+
 
 ## 📝 Informations
 <!--GitHub Readme Stats에는 여러 내장 테마(예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, black-ice) 가 함께 제공됩니다. -->
